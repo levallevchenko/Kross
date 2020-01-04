@@ -1,0 +1,54 @@
+@font-face {
+    font-weight: 400;
+    font-family: "Roboto";
+    font-style: normal;
+    font-display: swap;
+    src: url("../fonts/Roboto-Regular.woff2") format("woff2"),
+      url("../fonts/Roboto-Regular.woff") format("woff");
+  }
+  
+  @font-face {
+    font-weight: 300;
+    font-family: "Roboto";
+    font-style: normal;
+    font-display: swap;
+    src: url("../fonts/Roboto-Light.woff2") format("woff2"),
+      url("../fonts/Roboto-Light.woff") format("woff");
+  }
+  
+  @font-face {
+    font-weight: 400;
+    font-family: "Poppins";
+    font-style: normal;
+    font-display: swap;
+    src: url("../fonts/Poppins-Bold.woff2") format("woff2"),
+      url("../fonts/Poppins-Bold.woff") format("woff");
+  }
+
+  @font-face {
+    font-weight: 400;
+    font-family: "PlayfairDisplay";
+    font-style: normal;
+    font-display: swap;
+    src: url("../fonts/PlayfairDisplay-Regular.woff2") format("woff2"),
+      url("../fonts/PlayfairDisplay-Regular.woff") format("woff");
+  }
+
+  body {
+    min-width: 320px;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    line-height: 27px;
+    font-family: "Roboto", "Arial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .visually-hidden {
+    position: absolute;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+  }

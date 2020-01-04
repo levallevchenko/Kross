@@ -1,0 +1,19 @@
+{
+  "name": "kross",
+  "version": "1.0.0",
+  "description": "Self project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levallevchenko/Kross.git"
+  },
+  "author": "Anna Levchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levallevchenko/Kross/issues"
+  },
+  "homepage": "https://github.com/levallevchenko/Kross#readme"
+}
